@@ -138,8 +138,8 @@ function App() {
                                 {/* 添加发送者邮箱 */}
                                 <p style={{
                                     margin: 0,
-                                    color: '#7f8c8d', // 灰色
-                                    fontSize: '12px',
+                                    color: '#ffffff', // 白色
+                                    fontSize: '10px',
                                     marginBottom: '5px',
                                     }}>{message.email}</p>
                                 <p style={{ margin: 0 }}>{message.content}</p>
